@@ -32,6 +32,7 @@
 
 * Python 3
 * Lists and Dictionaries
+* Modules
 * Functions
 * tuples
 * Sets
@@ -46,7 +47,7 @@
 * Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone (https://github.com/rakshit26bce10052-dotcom/movie-ticketing-booking-system.git)
 ```
 
 * Open the project folder:
