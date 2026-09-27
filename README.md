@@ -117,6 +117,10 @@ python movie_ticket.py
 * **Language:** Python
 * **Type:** Console-Based Application
 * **Purpose:** Academic Project
+##Screenshot
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/688e7cc4-a414-4c97-b101-9b85592aa37f" />
+
+
 
 # License
 
