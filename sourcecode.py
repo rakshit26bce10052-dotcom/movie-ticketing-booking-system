@@ -1,7 +1,8 @@
 # ==================================================
 #        MOVIE TICKET MANAGEMENT SYSTEM
 # ==================================================
-
+import random *
+date&time
 users = {
     "student": ["student123", "user"],
     "admin": ["admin123", "admin"]
