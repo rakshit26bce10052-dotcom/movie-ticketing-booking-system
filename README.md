@@ -33,6 +33,9 @@
 * Python 3
 * Lists and Dictionaries
 * Functions
+* tuples
+* Sets
+* operators
 * Loops
 * Conditional Statements
 * Exception Handling
